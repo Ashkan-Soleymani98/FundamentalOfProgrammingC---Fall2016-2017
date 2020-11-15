@@ -1,2 +1,18 @@
 # FundamentalOfProgrammingC---Fall2016-2017
-Advanced Programming Java, Undergraduate Course (Fall 2016-2017), Sharif University of Technology, Instructor: Dr. Omid Gheibi
+Fundamental of Programming C <br />
+Undergraduate Course (Fall 2016-2017) <br />
+Sharif University of Technology <br />
+Computer Engineering Department <br />
+Instructor: Dr. Omid Gheibi <br />
+Practical Assignments and Course Project (C/C++) <br />
+
+
+Assignments: <br /> 
+    HW1-9: Basic to Advanced Programming Problems
+
+Project: <br />
+    A Text Classification Problem Using Classical NLP Algorithms
+    Phase0: Receive Texts from Servers using Curl
+    Phase1: Structurize Text Files
+    Phase2: Preprocess and Text Classification
+    Phase3: Hyperparameter Search and Send Back the Results
