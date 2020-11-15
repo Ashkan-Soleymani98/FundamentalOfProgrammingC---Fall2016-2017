@@ -8,11 +8,11 @@ Practical Assignments and Course Project (C/C++) <br />
 
 
 Assignments: <br /> 
-    HW1-9: Basic to Advanced Programming Problems
+    HW1-9: Basic to Advanced Programming Problems <br />
 
 Project: <br />
-    A Text Classification Problem Using Classical NLP Algorithms
-    Phase0: Receive Texts from Servers using Curl
-    Phase1: Structurize Text Files
-    Phase2: Preprocess and Text Classification
-    Phase3: Hyperparameter Search and Send Back the Results
+    A Text Classification Problem Using Classical NLP Algorithms <br />
+    Phase0: Receive Texts from Servers using Curl <br />
+    Phase1: Structurize Text Files <br />
+    Phase2: Preprocess and Text Classification <br />
+    Phase3: Hyperparameter Search and Send Back the Results <br />
